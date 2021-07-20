@@ -1,0 +1,95 @@
+body{
+    background:url('bgimg.png')  no-repeat center center fixed;
+    background-size:cover;
+    font-family: 'Encode Sans SC', sans-serif !important;
+    background-color: black;
+    text-transform: capitalize;
+}
+
+/* button */
+button{
+    border: none;
+    background:#ffbe1b;;
+}
+
+.iconcolor{
+    color: black;
+}
+
+/* opacity */
+.rowcol{
+    opacity: 0.9;
+}
+.rowcol:hover{
+    opacity: 1;
+}
+
+/*  */
+
+.user1:visited{
+    visibility:hidden;
+}
+
+b{
+    color: #ffbe1b;
+}
+.home{
+  
+    padding: 30px;
+    margin: 0px 5px;
+    border-bottom: 4px solid #C71585;   
+}
+.home a{
+    color: #C71585;
+}
+.home:hover{
+    border-bottom: 4px solid   rgb(0, 0, 0);
+    
+}
+.home a:hover{
+    color:    #000000;
+}
+
+/* user */
+.User{
+    border-bottom: 4px solid #300bff;
+    padding: 30px;
+    margin: 0px 5px;   
+}
+.User a{
+    color: #300bff;
+}
+.User:hover{
+    border-bottom: 4px solid   #000000;
+    
+}
+.User a:hover{
+    color: rgba(0, 0, 0, 0.932);
+}
+
+/* useraccount deatail */
+.Account{
+    border-bottom: 4px solid #ff0b0b;
+    padding: 30px;
+    margin: 0px 5px;   
+}
+.Account a{
+    color: #ff0b0b;
+}
+.Account:hover{
+    border-bottom: 4px solid   #000000;
+    
+}
+.Account a:hover{
+    color: rgba(0, 0, 0, 0.932);
+}
+input{
+    border: 1px solid black;
+    background:#0cb9e400;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+

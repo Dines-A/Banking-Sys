@@ -1,0 +1,107 @@
+body{
+    background:url('bgimg.png')  no-repeat center center fixed;
+    background-size:cover;
+    font-family: 'Encode Sans SC', sans-serif !important;
+    background-color: black;
+    text-transform: capitalize;
+}
+
+/* iconcolor */
+
+.iconcolor{
+    color: black;
+}
+/* home */
+/* quorts color */
+b{
+    color: rgb(255, 190, 27);
+}
+.home{
+  
+    padding: 30px;
+    margin: 0px 5px;
+    border-bottom: 4px solid #C71585;   
+}
+.home a{
+    color: #C71585;
+}
+.home:hover{
+    border-bottom: 4px solid   rgb(0, 0, 0);
+    
+}
+.home a:hover{
+    color:    #000000;
+}
+
+/* user */
+.User{
+    border-bottom: 4px solid #300bff;
+    padding: 30px;
+    margin: 0px 5px;   
+}
+.User a{
+    color: #300bff;
+}
+.User:hover{
+    border-bottom: 4px solid   #000000;
+    
+}
+.User a:hover{
+    color: rgba(0, 0, 0, 0.932);
+}
+
+/* Account */
+.Account{
+    border-bottom: 4px solid #ff0b0b;
+    padding: 30px;
+    margin: 0px 5px;   
+}
+.Account a{
+    color: #ff0b0b;
+}
+.Account:hover{
+    border-bottom: 4px solid   #000000;
+    
+}
+.Account a:hover{
+    color: rgba(0, 0, 0, 0.932);
+}
+
+
+
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer a b:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+
+/* contentcenter */
+.contentcenter{
+    padding-top: 100px;
+}
+/* text contents */
+
+
+
+.rowcol{
+    opacity: 0.6;
+}
+.rowcol:hover{
+    opacity: 1;
+box-shadow: 1px 1px 10px 1px rgb(0, 0, 0);
+}
+
+/* footer */
+.footer{
+    color: #0a0501;
+    border-radius: 20px;
+    text-align: center;
+    background:#ffffff;
+}
+/* footerbootom */
+.footerbooton{
+    padding-top: 200px;
+}
